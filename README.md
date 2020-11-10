@@ -13,7 +13,7 @@ Another email notification can be sent once the user has received a set score in
 
 The plugin has been developed with limited styling to enable the best possible base for theme overrides to align the design with your existing moodle theme.
 
-
+## A better plugin: https://moodle.org/plugins/block_dedication
 VERSION UPDATES
 ===============
 Version 2019091800
